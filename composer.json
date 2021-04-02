@@ -1,0 +1,14 @@
+{
+    "name": "drago/bccs",
+    "description": "Haha mozhesh ne kachat",
+    "authors": [
+        {
+            "name": "Noble-Bastard",
+            "email": "assabyn@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "vimeo/psalm": "^4.7",
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
